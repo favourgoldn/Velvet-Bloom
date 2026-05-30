@@ -1,0 +1,6 @@
+{
+  "name": "Velvet Bloom Spa",
+  "description": "Premium Wellness, Beauty & Luxury Spa Services website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
